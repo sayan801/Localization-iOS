@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  iLikeIt
+
+  Created by Kauserali on 07/03/14.
+  Copyright (c) 2014 Raywenderlich. All rights reserved...
+
+ 
+*/
+
+"Yesterday you sold %@ apps" = "कल आप बेचा %@ सॉफ्टवेयर";
+"You like?" = "तुम्हे पसंद है?";
+"imageName" = "hindi";
